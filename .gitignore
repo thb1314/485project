@@ -1,0 +1,6 @@
+*.uvproj
+*.uvopt
+*.THB
+.gitignore
+*/Objects/*
+*/Listings/*
